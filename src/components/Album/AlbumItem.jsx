@@ -2,14 +2,14 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import PropTypes from 'prop-types';
 
-function AlbumItem({ id, title, date }) {
+function AlbumItem({ id, title, date, match }) {
   const addDefaultSource = (ev) => {
     ev.target.src = 'https://www.placecage.com/200/300';
   };
 
   return (
     <div>
-      <Link to={`/album/${id}`}>
+      <Link to={`/album/${id}/${match.params.artist}`}>
         <figure>
           <img 
             onError={addDefaultSource}
