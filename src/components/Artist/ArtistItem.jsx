@@ -5,7 +5,7 @@ const ArtistItem = ({ id, name }) => {
 
 
     return (
-        <Link to={`/artist/${id}`}> <div>{name}</div></Link>
+        <Link to={`/artist/${id}/${name}`}> <div>{name}</div></Link>
     )
 
 }
