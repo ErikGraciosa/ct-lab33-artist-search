@@ -4,4 +4,5 @@ export const fetchArtists = (artist) => {
   )
     .then((res) => res.json())
     .then((json) => json.artists);
+
 };

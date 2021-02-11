@@ -15,6 +15,7 @@ export default function Home() {
       fetchArtists(search).then((results) => setArtists(results));
       setLoading(false);
     }
+
   }, [search]);
 
   return (

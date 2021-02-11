@@ -5,6 +5,7 @@ export default function Search({ setSearch }) {
   const handleSubmit = (e) => {
     e.preventDefault();
 
+
     setSearch(input);
   };
 
