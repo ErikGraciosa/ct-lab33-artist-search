@@ -2,7 +2,10 @@ import React, { useState } from 'react';
 export default function Search({ setSearch }) {
   const [input, setInput] = useState('');
 
-  const handleSubmit = () => {
+  const handleSubmit = (e) => {
+    e.preventDefault();
+
+
     setSearch(input);
   };
 
