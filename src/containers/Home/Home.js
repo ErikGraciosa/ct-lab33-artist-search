@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import Search from '../../components/Search';
+import Search from '../../components/Search/Search';
 import { fetchArtists } from '../../services/artistFetch';
 import ArtistDisplay from '../../components/Artist/ArtistDisplay';
 
@@ -25,7 +25,7 @@ export default function Home() {
       {(offset) != 0 
         ? <button onClick={() => setOffset(offset - 25)}>Last Page</button> 
         : <button disabled>Last Page</button>}
-      {(search) === '' 
+      {(artists.length) < 25  
         ? <button disabled>Next Page</button>
         : <button onClick={() => setOffset(offset + 25)}>Next Page</button>}
       {loading ? <div>Loading</div> : <ArtistDisplay artists={artists} />}

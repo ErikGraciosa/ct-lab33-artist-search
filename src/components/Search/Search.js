@@ -1,11 +1,10 @@
 import React, { useState } from 'react';
+import PropTypes from 'prop-types';
+
 export default function Search({ setSearch }) {
   const [input, setInput] = useState('');
-
   const handleSubmit = (e) => {
     e.preventDefault();
-
-
     setSearch(input);
   };
 
@@ -21,3 +20,7 @@ export default function Search({ setSearch }) {
     </div>
   );
 }
+
+Search.propTypes = {
+  setSearch: PropTypes.func.isRequired
+};
