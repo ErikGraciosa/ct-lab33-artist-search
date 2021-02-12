@@ -14,23 +14,14 @@ const server = setupServer(
   })
 );
 
-
 describe('Lyrics page functionality testing', () => {
   beforeAll(() => {
     server.listen();
-    
   });
   afterAll(() => server.close());
   
-  
-
   it('testing that the page displays fetched lyrics', async() => {
-    
-    
-  
-    
     render(
-
       <ArtistContext.Provider value={{
         artist: 'U2'
       }}>
