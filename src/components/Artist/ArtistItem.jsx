@@ -4,12 +4,8 @@ import { Link } from 'react-router-dom';
 import { useArtist } from '../../context/artistContext'
 
 const ArtistItem = ({ id, name }) => {
-    const { artist, setArtist } = useArtist()
-    // useEffect(() => {
-    //     setArtist(name)
-
-    // }, [])
-
+    const { setArtist } = useArtist()
+    
     return (
         <Link to={`/artist/${id}`} onClick={() => setArtist(name)}> <div >{name}</div></Link>
     )

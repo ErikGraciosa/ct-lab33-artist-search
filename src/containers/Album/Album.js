@@ -6,7 +6,7 @@ export default function Album({ match }) {
     const [loading, setLoading] = useState(true);
     const [songs, setSongs] = useState([]);
     const { artist } = useArtist()
-    console.log(artist)
+    
     useEffect(() => {
 
         findSongs(match.params.id)
@@ -17,7 +17,7 @@ export default function Album({ match }) {
             });
 
     }, []);
-    console.log('songs', songs)
+    
     return (
         <div>
             <ul>

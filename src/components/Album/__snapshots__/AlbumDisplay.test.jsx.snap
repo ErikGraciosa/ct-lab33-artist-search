@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AlbumDisplay component renders AlbumDisplay 1`] = `
+<DocumentFragment>
+  <div>
+    <div>
+      <a
+        href="/album/1234"
+      >
+        <figure>
+          <img
+            alt="picture"
+            src="http://coverartarchive.org/release/1234/front"
+          />
+          <figcaption />
+          <figcaption />
+        </figure>
+      </a>
+    </div>
+  </div>
+</DocumentFragment>
+`;

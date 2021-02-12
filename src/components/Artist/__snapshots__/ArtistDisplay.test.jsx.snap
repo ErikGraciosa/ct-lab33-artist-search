@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ArtistDisplay component renders ArtistDisplay 1`] = `
+<DocumentFragment>
+  <ul>
+    <li>
+      <a
+        href="/artist/1234"
+      >
+         
+        <div />
+      </a>
+    </li>
+  </ul>
+</DocumentFragment>
+`;

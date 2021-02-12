@@ -12,7 +12,7 @@ export default function Lyrics({ match }) {
     useEffect(() => {
         fetchLyrics(artist, match.params.id)
             .then((res) => {
-                console.log(res)
+                
                 setLyrics(res);
                 setLoading(false);
 
