@@ -1,33 +1,35 @@
 import React, { useEffect, useState } from 'react';
 import { findSongs } from '../../services/songsFetch';
 import { Link } from 'react-router-dom';
-
+import { useArtist } from '../../context/artistContext'
 export default function Album({ match }) {
-  const [loading, setLoading] = useState(true);
-  const [songs, setSongs] = useState([]);
+    const [loading, setLoading] = useState(true);
+    const [songs, setSongs] = useState([]);
+    const { artist } = useArtist()
+    console.log(artist)
+    useEffect(() => {
 
-  useEffect(() => {
-    findSongs(match.params.id).then((res) => {
-      setSongs(res);
-      setLoading(false);
-    });
-  }, []);
+        findSongs(match.params.id)
+            .then((res) => {
+                setSongs(res);
+                setLoading(false);
 
-  return (
-    <div>
-      <ul>
-        {loading ? (
-          <div>Loading </div>
-        ) : (
-          songs.map((song) => {
-            <li>
-              <Link to={`/song/${song.title}/${match.params.artist}`}>
-                <div>{song.title}</div>
-              </Link>
-            </li>;
-          })
-        )}
-      </ul>
-    </div>
-  );
+            });
+
+    }, []);
+    console.log('songs', songs)
+    return (
+        <div>
+            <ul>
+                {songs.map((song) => {
+                    return (
+                        <Link to={`/songs/${song.title}`}>  <li key={song.id}>
+                            <div>{song.title}</div>
+
+                        </li>
+                        </Link>)
+                })}
+            </ul>
+        </div>
+    );
 }
