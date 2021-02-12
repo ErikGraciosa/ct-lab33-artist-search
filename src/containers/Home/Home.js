@@ -20,7 +20,7 @@ export default function Home() {
   }, [search, offset]);
 
   return (
-    <div>
+    <div data-testid="artist-list">
       <Search setSearch={setSearch} />
       {(offset) != 0 
         ? <button onClick={() => setOffset(offset - 25)}>Last Page</button> 
