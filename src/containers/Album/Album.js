@@ -1,19 +1,12 @@
 import React, { useEffect, useState } from 'react';
 import { findSongs } from '../../services/songsFetch';
-// import { Link } from 'react-router-dom';
-
+import { Link } from 'react-router-dom';
+import { useArtist } from '../../context/artistContext'
 export default function Album({ match }) {
     const [loading, setLoading] = useState(true);
     const [songs, setSongs] = useState([]);
-
-    // useEffect(() => {
-    //     findSongs(match.params.id).then((res) => {
-    //         setSongs((res) =>
-    //             setLoading(false);
-    //         console.log(songs)
-    //     });
-
-    // }, []);
+    const { artist } = useArtist()
+    console.log(artist)
     useEffect(() => {
 
         findSongs(match.params.id)
@@ -30,10 +23,11 @@ export default function Album({ match }) {
             <ul>
                 {songs.map((song) => {
                     return (
-                        <li key={song.id}>
+                        <Link to={`/songs/${song.title}`}>  <li key={song.id}>
                             <div>{song.title}</div>
 
-                        </li>)
+                        </li>
+                        </Link>)
                 })}
             </ul>
         </div>
