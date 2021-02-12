@@ -1,0 +1,94 @@
+{
+  "recording-offset": 0,
+  "recording-count": 11,
+  "recordings": [
+      {
+          "video": false,
+          "first-release-date": "1980-10-20",
+          "disambiguation": "",
+          "title": "Twilight",
+          "id": "00fd6bfa-71f2-47f5-b1a2-88e928f1e08f",
+          "length": 262453
+      },
+      {
+          "length": 306000,
+          "title": "Shadows and Tall Trees / [untitled]",
+          "id": "672a925d-0765-4258-9374-2a639f920607",
+          "disambiguation": "",
+          "first-release-date": "1980-10-20",
+          "video": false
+      },
+      {
+          "first-release-date": "1980-10-20",
+          "video": false,
+          "disambiguation": "",
+          "id": "81c8c447-323a-4d85-90c2-bcc4f5ddc460",
+          "title": "Stories for Boys",
+          "length": 182440
+      },
+      {
+          "length": 287493,
+          "id": "8af15574-378f-4571-ab18-4175ea4b616a",
+          "title": "The Electric Co.",
+          "disambiguation": "",
+          "video": false,
+          "first-release-date": "1980-10-20"
+      },
+      {
+          "disambiguation": "",
+          "video": false,
+          "first-release-date": "1980-10-20",
+          "length": 286440,
+          "title": "An Cat Dubh",
+          "id": "8f7d932d-5f59-43ba-b4ad-f22de79d2985"
+      },
+      {
+          "id": "c6c8d2e9-445d-43d7-aac3-8d19d6d1fde1",
+          "title": "The Ocean",
+          "length": 95093,
+          "video": false,
+          "first-release-date": "1980-10-20",
+          "disambiguation": ""
+      },
+      {
+          "title": "Into the Heart",
+          "id": "d6f282dd-7485-418f-8f1a-bc71ff700a74",
+          "length": 207613,
+          "video": false,
+          "first-release-date": "1980-10-20",
+          "disambiguation": ""
+      },
+      {
+          "id": "e90ce9ee-cf9a-46c3-a9d8-8a4c6551b723",
+          "title": "Out of Control",
+          "length": 254026,
+          "video": false,
+          "first-release-date": "1980-10-20",
+          "disambiguation": ""
+      },
+      {
+          "length": 193174,
+          "title": "A Day Without Me",
+          "id": "ed01f2d8-a186-46b5-baf1-5e423cf3752d",
+          "disambiguation": "",
+          "video": false,
+          "first-release-date": "1980-08"
+      },
+      {
+          "first-release-date": "1980-10-20",
+          "video": false,
+          "disambiguation": "",
+          "id": "f82caf8c-071e-43ce-9410-8e2244b55d4a",
+          "title": "Another Time, Another Place",
+          "length": 273153
+      },
+      {
+          "video": false,
+          "first-release-date": "1980-10-20",
+          "disambiguation": "",
+          "title": "I Will Follow",
+          "id": "fd0d654e-bd45-48fa-b5a2-3beac95f258f",
+          "length": 217386
+      }
+  ]
+}

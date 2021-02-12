@@ -4,15 +4,16 @@ import Home from '../containers/Home/Home';
 import Artist from '../containers/Artist/Artist';
 import Album from '../containers/Album/Album';
 import Lyrics from '../containers/Lyrics/Lyrics';
-// import Header from '../containers/Header/Header';
-import { ArtistProvider } from '../context/artistContext'
+import Header from '../components/Header/Header';
+import { ArtistProvider } from '../context/artistContext';
+
 
 export default function App() {
   return (
     <>
       <Router>
         <ArtistProvider>
-          {/* <Header /> */}
+          <Header />
           <Switch>
             <Route exact path="/" component={Home} />
             <Route path="/artist/:id" component={Artist} />

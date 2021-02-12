@@ -1,0 +1,1031 @@
+{
+  "releases": [
+      {
+          "asin": null,
+          "cover-art-archive": {
+              "count": 0,
+              "artwork": false,
+              "darkened": false,
+              "front": false,
+              "back": false
+          },
+          "packaging": null,
+          "id": "03be9452-549a-4f30-a96f-44f794d50253",
+          "packaging-id": null,
+          "text-representation": {
+              "script": "Latn",
+              "language": "eng"
+          },
+          "status": "Promotion",
+          "date": "1981",
+          "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+          "title": "Gloria",
+          "country": "AR",
+          "barcode": null,
+          "quality": "normal",
+          "release-events": [
+              {
+                  "date": "1981",
+                  "area": {
+                      "sort-name": "Argentina",
+                      "type": null,
+                      "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b",
+                      "name": "Argentina",
+                      "disambiguation": "",
+                      "iso-3166-1-codes": [
+                          "AR"
+                      ],
+                      "type-id": null
+                  }
+              }
+          ],
+          "disambiguation": ""
+      },
+      {
+          "text-representation": {
+              "script": "Latn",
+              "language": "eng"
+          },
+          "status": "Official",
+          "date": "1979-09",
+          "id": "078e6bfd-22da-4703-b8b1-b35442986788",
+          "packaging-id": null,
+          "packaging": null,
+          "cover-art-archive": {
+              "darkened": false,
+              "artwork": true,
+              "count": 4,
+              "back": true,
+              "front": true
+          },
+          "asin": null,
+          "disambiguation": "",
+          "release-events": [
+              {
+                  "area": {
+                      "id": "390b05d4-11ec-3bce-a343-703a366b34a5",
+                      "type-id": null,
+                      "iso-3166-1-codes": [
+                          "IE"
+                      ],
+                      "disambiguation": "",
+                      "name": "Ireland",
+                      "type": null,
+                      "sort-name": "Ireland"
+                  },
+                  "date": "1979-09"
+              }
+          ],
+          "quality": "normal",
+          "title": "Three",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "barcode": null,
+          "country": "IE"
+      },
+      {
+          "release-events": [
+              {
+                  "area": {
+                      "sort-name": "Ireland",
+                      "type": null,
+                      "disambiguation": "",
+                      "name": "Ireland",
+                      "iso-3166-1-codes": [
+                          "IE"
+                      ],
+                      "type-id": null,
+                      "id": "390b05d4-11ec-3bce-a343-703a366b34a5"
+                  },
+                  "date": "1980-05-23"
+              }
+          ],
+          "disambiguation": "",
+          "barcode": null,
+          "country": "IE",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "title": "11 O'Clock Tick Tock",
+          "quality": "normal",
+          "packaging-id": null,
+          "id": "11651d52-c225-4a4d-8858-634f0e18b187",
+          "date": "1980-05-23",
+          "status": "Official",
+          "text-representation": {
+              "script": "Latn",
+              "language": "eng"
+          },
+          "asin": null,
+          "cover-art-archive": {
+              "count": 1,
+              "artwork": true,
+              "darkened": false,
+              "back": false,
+              "front": true
+          },
+          "packaging": null
+      },
+      {
+          "quality": "normal",
+          "title": "Boy",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "country": "GB",
+          "barcode": "",
+          "disambiguation": "",
+          "release-events": [
+              {
+                  "area": {
+                      "type-id": null,
+                      "iso-3166-1-codes": [
+                          "GB"
+                      ],
+                      "disambiguation": "",
+                      "name": "United Kingdom",
+                      "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                      "type": null,
+                      "sort-name": "United Kingdom"
+                  },
+                  "date": "1980-10-20"
+              }
+          ],
+          "cover-art-archive": {
+              "count": 1,
+              "artwork": true,
+              "darkened": false,
+              "front": true,
+              "back": false
+          },
+          "packaging": "Cardboard/Paper Sleeve",
+          "asin": null,
+          "status": "Official",
+          "text-representation": {
+              "language": "eng",
+              "script": "Latn"
+          },
+          "date": "1980-10-20",
+          "id": "24385f92-4dd1-4726-8719-437d1c74ac18",
+          "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f"
+      },
+      {
+          "quality": "normal",
+          "barcode": null,
+          "country": "GB",
+          "title": "I Will Follow",
+          "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+          "disambiguation": "",
+          "release-events": [
+              {
+                  "area": {
+                      "type": null,
+                      "sort-name": "United Kingdom",
+                      "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                      "iso-3166-1-codes": [
+                          "GB"
+                      ],
+                      "type-id": null,
+                      "name": "United Kingdom",
+                      "disambiguation": ""
+                  },
+                  "date": "1980"
+              }
+          ],
+          "cover-art-archive": {
+              "darkened": false,
+              "artwork": false,
+              "count": 0,
+              "front": false,
+              "back": false
+          },
+          "packaging": null,
+          "asin": null,
+          "date": "1980",
+          "text-representation": {
+              "script": "Latn",
+              "language": "eng"
+          },
+          "status": "Promotion",
+          "packaging-id": null,
+          "id": "3b8f4d7a-e89c-4f10-b2f3-3342a8a3161a"
+      },
+      {
+          "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+          "id": "58d026f5-fb00-480b-a670-bcd109c28617",
+          "date": "1980-10",
+          "text-representation": {
+              "language": "eng",
+              "script": "Latn"
+          },
+          "status": "Official",
+          "cover-art-archive": {
+              "front": true,
+              "back": false,
+              "artwork": true,
+              "darkened": false,
+              "count": 1
+          },
+          "packaging": "Cardboard/Paper Sleeve",
+          "asin": null,
+          "release-events": [
+              {
+                  "area": {
+                      "sort-name": "United Kingdom",
+                      "type": null,
+                      "name": "United Kingdom",
+                      "disambiguation": "",
+                      "type-id": null,
+                      "iso-3166-1-codes": [
+                          "GB"
+                      ],
+                      "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+                  },
+                  "date": "1980-10"
+              }
+          ],
+          "disambiguation": "",
+          "barcode": "",
+          "country": "GB",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "title": "I Will Follow",
+          "quality": "normal"
+      },
+      {
+          "status": "Official",
+          "text-representation": {
+              "script": "Latn",
+              "language": "eng"
+          },
+          "date": "1980-02-26",
+          "id": "5b318709-50fa-4e20-993c-95f30df492b1",
+          "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+          "packaging": "Cardboard/Paper Sleeve",
+          "cover-art-archive": {
+              "count": 7,
+              "darkened": false,
+              "artwork": true,
+              "front": true,
+              "back": true
+          },
+          "asin": null,
+          "disambiguation": "",
+          "release-events": [
+              {
+                  "area": {
+                      "name": "Ireland",
+                      "disambiguation": "",
+                      "iso-3166-1-codes": [
+                          "IE"
+                      ],
+                      "type-id": null,
+                      "id": "390b05d4-11ec-3bce-a343-703a366b34a5",
+                      "sort-name": "Ireland",
+                      "type": null
+                  },
+                  "date": "1980-02-26"
+              }
+          ],
+          "quality": "normal",
+          "title": "Another Day",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "country": "IE",
+          "barcode": ""
+      },
+      {
+          "quality": "normal",
+          "barcode": null,
+          "country": "IE",
+          "title": "Three",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "disambiguation": "",
+          "release-events": [
+              {
+                  "date": "1979-09",
+                  "area": {
+                      "type": null,
+                      "sort-name": "Ireland",
+                      "id": "390b05d4-11ec-3bce-a343-703a366b34a5",
+                      "iso-3166-1-codes": [
+                          "IE"
+                      ],
+                      "type-id": null,
+                      "disambiguation": "",
+                      "name": "Ireland"
+                  }
+              }
+          ],
+          "asin": null,
+          "cover-art-archive": {
+              "back": false,
+              "front": false,
+              "count": 0,
+              "darkened": false,
+              "artwork": false
+          },
+          "packaging": null,
+          "date": "1979-09",
+          "text-representation": {
+              "language": "eng",
+              "script": "Latn"
+          },
+          "status": "Official",
+          "packaging-id": null,
+          "id": "5c700a99-d723-3598-b9bb-6989a88c747f"
+      },
+      {
+          "date": "1981",
+          "status": "Official",
+          "text-representation": {
+              "language": "eng",
+              "script": "Latn"
+          },
+          "packaging-id": null,
+          "id": "5dcdd3ae-9bd1-355d-ab01-040e39897015",
+          "packaging": null,
+          "cover-art-archive": {
+              "front": false,
+              "back": false,
+              "count": 0,
+              "artwork": false,
+              "darkened": false
+          },
+          "asin": null,
+          "disambiguation": "",
+          "release-events": [
+              {
+                  "area": {
+                      "type": null,
+                      "sort-name": "Argentina",
+                      "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b",
+                      "iso-3166-1-codes": [
+                          "AR"
+                      ],
+                      "type-id": null,
+                      "name": "Argentina",
+                      "disambiguation": ""
+                  },
+                  "date": "1981"
+              }
+          ],
+          "quality": "normal",
+          "barcode": null,
+          "country": "AR",
+          "title": "October",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe"
+      },
+      {
+          "asin": null,
+          "cover-art-archive": {
+              "back": false,
+              "front": false,
+              "darkened": false,
+              "artwork": false,
+              "count": 0
+          },
+          "packaging": "Cardboard/Paper Sleeve",
+          "id": "687043f7-8b77-432c-9087-c85e6da83adc",
+          "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+          "text-representation": {
+              "language": "eng",
+              "script": "Latn"
+          },
+          "status": "Official",
+          "date": "1981-03",
+          "title": "I Will Follow",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "barcode": "",
+          "country": "US",
+          "quality": "normal",
+          "release-events": [
+              {
+                  "area": {
+                      "id": "489ce91b-6658-3307-9877-795b68554c98",
+                      "disambiguation": "",
+                      "name": "United States",
+                      "iso-3166-1-codes": [
+                          "US"
+                      ],
+                      "type-id": null,
+                      "sort-name": "United States",
+                      "type": null
+                  },
+                  "date": "1981-03"
+              }
+          ],
+          "disambiguation": ""
+      },
+      {
+          "date": "1980",
+          "status": "Official",
+          "text-representation": {
+              "language": "eng",
+              "script": null
+          },
+          "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+          "id": "6be073e8-b412-4965-987f-22f8f7e2ee0f",
+          "packaging": "Jewel Case",
+          "cover-art-archive": {
+              "artwork": true,
+              "darkened": false,
+              "count": 1,
+              "back": false,
+              "front": true
+          },
+          "asin": null,
+          "disambiguation": "North American cover",
+          "release-events": [
+              {
+                  "area": {
+                      "type": null,
+                      "sort-name": "United States",
+                      "id": "489ce91b-6658-3307-9877-795b68554c98",
+                      "iso-3166-1-codes": [
+                          "US"
+                      ],
+                      "type-id": null,
+                      "disambiguation": "",
+                      "name": "United States"
+                  },
+                  "date": "1980"
+              }
+          ],
+          "quality": "normal",
+          "barcode": "042284229623",
+          "country": "US",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "title": "Boy"
+      },
+      {
+          "cover-art-archive": {
+              "count": 0,
+              "darkened": false,
+              "artwork": false,
+              "front": false,
+              "back": false
+          },
+          "packaging": null,
+          "asin": null,
+          "id": "73bbdcae-488a-3cad-9f0e-9d1e1bbb25fb",
+          "packaging-id": null,
+          "text-representation": {
+              "script": "Latn",
+              "language": "eng"
+          },
+          "status": "Official",
+          "date": "1981-10-12",
+          "title": "October",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "barcode": null,
+          "country": "GB",
+          "quality": "normal",
+          "release-events": [
+              {
+                  "area": {
+                      "sort-name": "United Kingdom",
+                      "type": null,
+                      "name": "United Kingdom",
+                      "disambiguation": "",
+                      "iso-3166-1-codes": [
+                          "GB"
+                      ],
+                      "type-id": null,
+                      "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+                  },
+                  "date": "1981-10-12"
+              }
+          ],
+          "disambiguation": ""
+      },
+      {
+          "quality": "normal",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "title": "A Day Without Me",
+          "country": "GB",
+          "barcode": null,
+          "disambiguation": "",
+          "release-events": [
+              {
+                  "date": "1980-08",
+                  "area": {
+                      "sort-name": "United Kingdom",
+                      "type": null,
+                      "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                      "disambiguation": "",
+                      "name": "United Kingdom",
+                      "iso-3166-1-codes": [
+                          "GB"
+                      ],
+                      "type-id": null
+                  }
+              }
+          ],
+          "asin": null,
+          "cover-art-archive": {
+              "count": 1,
+              "darkened": false,
+              "artwork": true,
+              "front": true,
+              "back": false
+          },
+          "packaging": null,
+          "status": "Official",
+          "text-representation": {
+              "script": "Latn",
+              "language": "eng"
+          },
+          "date": "1980-08",
+          "id": "7e803e6f-9a61-3427-8460-f637d004d748",
+          "packaging-id": null
+      },
+      {
+          "disambiguation": "",
+          "release-events": [
+              {
+                  "date": "1980-10",
+                  "area": {
+                      "type": null,
+                      "sort-name": "Ireland",
+                      "type-id": null,
+                      "iso-3166-1-codes": [
+                          "IE"
+                      ],
+                      "name": "Ireland",
+                      "disambiguation": "",
+                      "id": "390b05d4-11ec-3bce-a343-703a366b34a5"
+                  }
+              }
+          ],
+          "quality": "normal",
+          "title": "I Will Follow",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "barcode": "",
+          "country": "IE",
+          "text-representation": {
+              "script": "Latn",
+              "language": "eng"
+          },
+          "status": "Official",
+          "date": "1980-10",
+          "id": "8f468246-9441-4069-a2ce-8cc0e9ec0763",
+          "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+          "cover-art-archive": {
+              "artwork": false,
+              "darkened": false,
+              "count": 0,
+              "back": false,
+              "front": false
+          },
+          "packaging": "Cardboard/Paper Sleeve",
+          "asin": null
+      },
+      {
+          "status": "Official",
+          "text-representation": {
+              "language": "eng",
+              "script": "Latn"
+          },
+          "date": "1981-07",
+          "id": "925d7e25-dae7-4a4c-b638-b72512126a64",
+          "packaging-id": null,
+          "asin": null,
+          "cover-art-archive": {
+              "front": false,
+              "back": false,
+              "artwork": false,
+              "darkened": false,
+              "count": 0
+          },
+          "packaging": null,
+          "disambiguation": "",
+          "release-events": [
+              {
+                  "area": {
+                      "sort-name": "Ireland",
+                      "type": null,
+                      "disambiguation": "",
+                      "name": "Ireland",
+                      "iso-3166-1-codes": [
+                          "IE"
+                      ],
+                      "type-id": null,
+                      "id": "390b05d4-11ec-3bce-a343-703a366b34a5"
+                  },
+                  "date": "1981-07"
+              }
+          ],
+          "quality": "normal",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "title": "Fire",
+          "country": "IE",
+          "barcode": null
+      },
+      {
+          "disambiguation": "",
+          "release-events": [
+              {
+                  "date": "1981-07",
+                  "area": {
+                      "type": null,
+                      "sort-name": "Ireland",
+                      "type-id": null,
+                      "iso-3166-1-codes": [
+                          "IE"
+                      ],
+                      "disambiguation": "",
+                      "name": "Ireland",
+                      "id": "390b05d4-11ec-3bce-a343-703a366b34a5"
+                  }
+              }
+          ],
+          "quality": "normal",
+          "country": "IE",
+          "barcode": null,
+          "title": "Fire",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "date": "1981-07",
+          "status": "Official",
+          "text-representation": {
+              "language": "eng",
+              "script": "Latn"
+          },
+          "packaging-id": null,
+          "id": "960f4cb8-acef-4da6-b25c-876256c9c0bf",
+          "cover-art-archive": {
+              "count": 1,
+              "artwork": true,
+              "darkened": false,
+              "back": false,
+              "front": true
+          },
+          "asin": null,
+          "packaging": null
+      },
+      {
+          "cover-art-archive": {
+              "darkened": false,
+              "artwork": false,
+              "count": 0,
+              "back": false,
+              "front": false
+          },
+          "asin": null,
+          "packaging": null,
+          "id": "9fc683c0-000b-4569-8036-0043faeeeeb7",
+          "packaging-id": null,
+          "text-representation": {
+              "language": "eng",
+              "script": "Latn"
+          },
+          "status": "Official",
+          "date": "1981-07",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "title": "Fire",
+          "country": "GB",
+          "barcode": null,
+          "quality": "normal",
+          "release-events": [
+              {
+                  "area": {
+                      "type-id": null,
+                      "iso-3166-1-codes": [
+                          "GB"
+                      ],
+                      "name": "United Kingdom",
+                      "disambiguation": "",
+                      "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                      "type": null,
+                      "sort-name": "United Kingdom"
+                  },
+                  "date": "1981-07"
+              }
+          ],
+          "disambiguation": ""
+      },
+      {
+          "quality": "normal",
+          "barcode": null,
+          "country": "IE",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "title": "Gloria",
+          "disambiguation": "",
+          "release-events": [
+              {
+                  "area": {
+                      "type": null,
+                      "sort-name": "Ireland",
+                      "id": "390b05d4-11ec-3bce-a343-703a366b34a5",
+                      "type-id": null,
+                      "iso-3166-1-codes": [
+                          "IE"
+                      ],
+                      "disambiguation": "",
+                      "name": "Ireland"
+                  },
+                  "date": "1981-10"
+              }
+          ],
+          "packaging": null,
+          "cover-art-archive": {
+              "count": 1,
+              "darkened": false,
+              "artwork": true,
+              "front": true,
+              "back": false
+          },
+          "asin": null,
+          "date": "1981-10",
+          "status": "Official",
+          "text-representation": {
+              "language": "eng",
+              "script": "Latn"
+          },
+          "packaging-id": null,
+          "id": "a747753c-0c84-43cc-8835-44e6be664475"
+      },
+      {
+          "quality": "normal",
+          "country": "GB",
+          "barcode": null,
+          "title": "Gloria",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "disambiguation": "",
+          "release-events": [
+              {
+                  "date": "1981-10",
+                  "area": {
+                      "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                      "name": "United Kingdom",
+                      "disambiguation": "",
+                      "type-id": null,
+                      "iso-3166-1-codes": [
+                          "GB"
+                      ],
+                      "sort-name": "United Kingdom",
+                      "type": null
+                  }
+              }
+          ],
+          "packaging": null,
+          "cover-art-archive": {
+              "count": 0,
+              "artwork": false,
+              "darkened": false,
+              "back": false,
+              "front": false
+          },
+          "asin": null,
+          "date": "1981-10",
+          "text-representation": {
+              "script": "Latn",
+              "language": "eng"
+          },
+          "status": "Official",
+          "packaging-id": null,
+          "id": "acfc9d51-36f5-3faa-8d2d-6313e907cbbd"
+      },
+      {
+          "status": "Official",
+          "text-representation": {
+              "script": "Latn",
+              "language": "eng"
+          },
+          "date": "1980-10-20",
+          "id": "b6a3368f-2b31-4b94-9d2c-d8f7442ee289",
+          "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+          "asin": null,
+          "cover-art-archive": {
+              "count": 0,
+              "artwork": false,
+              "darkened": false,
+              "front": false,
+              "back": false
+          },
+          "packaging": "Cardboard/Paper Sleeve",
+          "disambiguation": "Early vinyl copy of the album.",
+          "release-events": [
+              {
+                  "area": {
+                      "type": null,
+                      "sort-name": "United Kingdom",
+                      "type-id": null,
+                      "iso-3166-1-codes": [
+                          "GB"
+                      ],
+                      "name": "United Kingdom",
+                      "disambiguation": "",
+                      "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+                  },
+                  "date": "1980-10-20"
+              }
+          ],
+          "quality": "normal",
+          "title": "Boy",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "country": "GB",
+          "barcode": ""
+      },
+      {
+          "id": "c3cc6a34-8289-36a4-9228-8268b3ffdc0e",
+          "packaging-id": null,
+          "text-representation": {
+              "language": "eng",
+              "script": "Latn"
+          },
+          "status": "Official",
+          "date": "1980-10-20",
+          "cover-art-archive": {
+              "front": false,
+              "back": false,
+              "count": 0,
+              "artwork": false,
+              "darkened": false
+          },
+          "asin": null,
+          "packaging": null,
+          "release-events": [
+              {
+                  "date": "1980-10-20",
+                  "area": {
+                      "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                      "iso-3166-1-codes": [
+                          "GB"
+                      ],
+                      "type-id": null,
+                      "disambiguation": "",
+                      "name": "United Kingdom",
+                      "type": null,
+                      "sort-name": "United Kingdom"
+                  }
+              }
+          ],
+          "disambiguation": "",
+          "title": "Boy",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "barcode": null,
+          "country": "GB",
+          "quality": "normal"
+      },
+      {
+          "cover-art-archive": {
+              "back": false,
+              "front": true,
+              "count": 2,
+              "artwork": true,
+              "darkened": false
+          },
+          "packaging": "Cardboard/Paper Sleeve",
+          "asin": null,
+          "id": "cb24eab2-e812-4f25-b4e8-92451fdcdb89",
+          "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+          "text-representation": {
+              "language": "eng",
+              "script": "Latn"
+          },
+          "status": "Official",
+          "date": "1981-10-12",
+          "title": "October",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "country": "GB",
+          "barcode": "",
+          "quality": "normal",
+          "release-events": [
+              {
+                  "date": "1981-10-12",
+                  "area": {
+                      "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                      "type-id": null,
+                      "iso-3166-1-codes": [
+                          "GB"
+                      ],
+                      "name": "United Kingdom",
+                      "disambiguation": "",
+                      "type": null,
+                      "sort-name": "United Kingdom"
+                  }
+              }
+          ],
+          "disambiguation": ""
+      },
+      {
+          "id": "f19d3600-191b-3ea4-aba9-1fe40128e119",
+          "packaging-id": null,
+          "status": "Official",
+          "text-representation": {
+              "language": "eng",
+              "script": "Latn"
+          },
+          "date": "1981-07",
+          "packaging": null,
+          "cover-art-archive": {
+              "front": true,
+              "back": false,
+              "artwork": true,
+              "darkened": false,
+              "count": 1
+          },
+          "asin": null,
+          "release-events": [
+              {
+                  "area": {
+                      "sort-name": "United Kingdom",
+                      "type": null,
+                      "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                      "name": "United Kingdom",
+                      "disambiguation": "",
+                      "type-id": null,
+                      "iso-3166-1-codes": [
+                          "GB"
+                      ]
+                  },
+                  "date": "1981-07"
+              }
+          ],
+          "disambiguation": "",
+          "title": "Fire",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "barcode": null,
+          "country": "GB",
+          "quality": "normal"
+      },
+      {
+          "disambiguation": "",
+          "release-events": [
+              {
+                  "date": "1980-08",
+                  "area": {
+                      "type": null,
+                      "sort-name": "Ireland",
+                      "type-id": null,
+                      "iso-3166-1-codes": [
+                          "IE"
+                      ],
+                      "name": "Ireland",
+                      "disambiguation": "",
+                      "id": "390b05d4-11ec-3bce-a343-703a366b34a5"
+                  }
+              }
+          ],
+          "quality": "normal",
+          "country": "IE",
+          "barcode": null,
+          "title": "A Day Without Me",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "date": "1980-08",
+          "status": "Official",
+          "text-representation": {
+              "script": "Latn",
+              "language": "eng"
+          },
+          "packaging-id": null,
+          "id": "f926fa69-4fac-4d74-966e-1c17740a8cfa",
+          "packaging": null,
+          "cover-art-archive": {
+              "darkened": false,
+              "artwork": false,
+              "count": 0,
+              "back": false,
+              "front": false
+          },
+          "asin": null
+      },
+      {
+          "text-representation": {
+              "language": "eng",
+              "script": "Latn"
+          },
+          "status": "Official",
+          "date": "1980-05",
+          "id": "f9a9c820-d6d8-4856-a7a2-6364270f864a",
+          "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+          "asin": null,
+          "cover-art-archive": {
+              "darkened": false,
+              "artwork": false,
+              "count": 0,
+              "front": false,
+              "back": false
+          },
+          "packaging": "Cardboard/Paper Sleeve",
+          "disambiguation": "",
+          "release-events": [
+              {
+                  "date": "1980-05",
+                  "area": {
+                      "sort-name": "United Kingdom",
+                      "type": null,
+                      "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                      "disambiguation": "",
+                      "name": "United Kingdom",
+                      "iso-3166-1-codes": [
+                          "GB"
+                      ],
+                      "type-id": null
+                  }
+              }
+          ],
+          "quality": "normal",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "title": "11 O'Clock Tick Tock",
+          "barcode": "",
+          "country": "GB"
+      }
+  ],
+  "release-count": 1946,
+  "release-offset": 0
+}
